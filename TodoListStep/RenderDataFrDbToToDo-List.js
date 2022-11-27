@@ -1,3 +1,5 @@
+//The code is all about getting default item from the database and place in the to-dolist so that user easily look and catch
+
 const express = require("express");
 const bodyParser = require("body-parser");
 const date = require("./date");
